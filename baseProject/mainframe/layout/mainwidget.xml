@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xmlui>
+	<DemoFrame fixSize="400,300" objectName="entframewindow" >
+		<DuiWidget objectName="root" layout="VBox" >
+			<!-- 标题栏 -->
+			<DuiWidget objectName="titleBar" layout="HBox" fixHeight="35">
+			</DuiWidget>
+			<!-- 窗口默认显示状态 -->
+			
+			
+			<DuiSvgaWidget objectName="svgaWidget" backgroundColor="0,0,0" imagePath="E:/svga/rose.svga" loops="true" scalePolicy="ScaleWidgetCenter"/>
+			
+			<!-- 底部栏 -->
+			<DuiWidget objectName="bottomBar" layout="HBox" fixHeight="30">
+			</DuiWidget>
+		</DuiWidget>
+	</DemoFrame>
+</xmlui>
+

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/xml">
+		<file>layout/mainwidget.xml</file>
+    </qresource> 
+    <qresource prefix="/resource">
+		<file>image/head.png</file>
+    </qresource> 
+</RCC>
